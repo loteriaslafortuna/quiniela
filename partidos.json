@@ -1,0 +1,80 @@
+{
+    "jornada": "Jornada 43ª (1ª LaLiga EA / 2ª LaLiga EA Hypermotion) 15-16 / febrero / 2025",
+    "partidos": [
+        {
+            "numero": 1,
+            "equipo1": "LEGANÉS",
+            "equipo2": "ALAVÉS"
+        },
+        {
+            "numero": 2,
+            "equipo1": "OSASUNA",
+            "equipo2": "REAL MADRID"
+        },
+        {
+            "numero": 3,
+            "equipo1": "AT. MADRID",
+            "equipo2": "CELTA"
+        },
+        {
+            "numero": 4,
+            "equipo1": "VILLARREAL",
+            "equipo2": "VALENCIA"
+        },
+        {
+            "numero": 5,
+            "equipo1": "ESPANYOL",
+            "equipo2": "ATHLETIC CLUB"
+        },
+        {
+            "numero": 6,
+            "equipo1": "VALLADOLID",
+            "equipo2": "SEVILLA"
+        },
+        {
+            "numero": 7,
+            "equipo1": "MALLORCA",
+            "equipo2": "LAS PALMAS"
+        },
+        {
+            "numero": 8,
+            "equipo1": "BETIS",
+            "equipo2": "REAL SOCIEDAD"
+        },
+        {
+            "numero": 9,
+            "equipo1": "RACING SANTANDER",
+            "equipo2": "CÁDIZ"
+        },
+        {
+            "numero": 10,
+            "equipo1": "TENERIFE",
+            "equipo2": "CÓRDOBA"
+        },
+        {
+            "numero": 11,
+            "equipo1": "LEVANTE",
+            "equipo2": "SPORTING"
+        },
+        {
+            "numero": 12,
+            "equipo1": "ELDENSE",
+            "equipo2": "DEPORTIVO"
+        },
+        {
+            "numero": 13,
+            "equipo1": "HUESCA",
+            "equipo2": "GRANADA"
+        },
+        {
+            "numero": 14,
+            "equipo1": "R. OVIEDO",
+            "equipo2": "ALBACETE"
+        },
+        {
+            "numero": "P15",
+            "equipo1": "BARCELONA",
+            "equipo2": "RAYO VALLECANO"
+        }
+    ]
+}
