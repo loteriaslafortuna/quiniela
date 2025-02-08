@@ -1,0 +1,37 @@
+name: Actualizar partidos JSON
+
+on:
+  push:
+    branches:
+      - main  # Ejecuta el flujo de trabajo cuando hay cambios en la rama 'main'
+  schedule:
+    - cron: '0 0 * * 0'  # Ejecuta el flujo de trabajo cada domingo a la medianoche (ajustar si lo necesitas)
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest  # Ejecuta en un entorno de Ubuntu
+
+    steps:
+      - name: Comprobar el repositorio
+        uses: actions/checkout@v2  # Esta es la acción para clonar tu repositorio en el entorno de ejecución
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Establece la versión de Python
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt  # Instala las dependencias si tienes un archivo requirements.txt
+
+      - name: Ejecutar script Python para generar JSON
+        run: |
+          python convertir_partidos.py  # Ejecuta el script Python que genera el archivo partidos.json
+
+      - name: Subir archivo JSON generado
+        uses: EndBug/add-and-commit@v7  # Usa esta acción para hacer commit y subir el archivo al repositorio
+        with:
+          author_name: "GitHub Actions"  # Nombre del autor para el commit
+          author_email: "github-actions@users.noreply.github.com"  # Email del autor
+          message: "Actualizar archivo partidos.json automáticamente"  # Mensaje del commit
+          add: "partidos.json"  # Ruta del archivo JSON generado
