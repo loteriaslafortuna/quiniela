@@ -1,80 +1,80 @@
 {
-    "jornada": "Jornada 51ª (2ª LaLiga EA Hypermotion / UEFA Liga Naciones) 22-23 / marzo / 2025",
+    "jornada": "Jornada 52ª (1ª LaLiga EA / 2ª LaLiga EA Hypermotion) 29-30 / marzo / 2025",
     "partidos": [
         {
             "numero": 1,
-            "equipo1": "ELCHE",
-            "equipo2": "ELDENSE"
+            "equipo1": "REAL SOCIEDAD",
+            "equipo2": "VALLADOLID"
         },
         {
             "numero": 2,
-            "equipo1": "MIRANDÉS",
-            "equipo2": "RACING SANTANDER"
+            "equipo1": "ESPANYOL",
+            "equipo2": "AT. MADRID"
         },
         {
             "numero": 3,
-            "equipo1": "MÁLAGA",
-            "equipo2": "RACING FERROL"
+            "equipo1": "ALAVÉS",
+            "equipo2": "RAYO VALLECANO"
         },
         {
             "numero": 4,
-            "equipo1": "GRANADA",
-            "equipo2": "R. OVIEDO"
+            "equipo1": "REAL MADRID",
+            "equipo2": "LEGANÉS"
         },
         {
             "numero": 5,
-            "equipo1": "LEVANTE",
-            "equipo2": "CASTELLÓN"
+            "equipo1": "GETAFE",
+            "equipo2": "VILLARREAL"
         },
         {
             "numero": 6,
-            "equipo1": "EIBAR",
-            "equipo2": "HUESCA"
+            "equipo1": "BARCELONA",
+            "equipo2": "GIRONA"
         },
         {
             "numero": 7,
-            "equipo1": "SPORTING",
-            "equipo2": "ALBACETE"
+            "equipo1": "VALENCIA",
+            "equipo2": "MALLORCA"
         },
         {
             "numero": 8,
-            "equipo1": "TENERIFE",
-            "equipo2": "CÁDIZ"
+            "equipo1": "CELTA",
+            "equipo2": "LAS PALMAS"
         },
         {
             "numero": 9,
-            "equipo1": "DEPORTIVO",
-            "equipo2": "CARTAGENA"
+            "equipo1": "RACING SANTANDER",
+            "equipo2": "R. ZARAGOZA"
         },
         {
             "numero": 10,
-            "equipo1": "ESCOCIA",
-            "equipo2": "GRECIA"
+            "equipo1": "ALMERÍA",
+            "equipo2": "LEVANTE"
         },
         {
             "numero": 11,
-            "equipo1": "BÉLGICA",
-            "equipo2": "UCRANIA"
+            "equipo1": "CÓRDOBA",
+            "equipo2": "ELCHE"
         },
         {
             "numero": 12,
-            "equipo1": "FRANCIA",
-            "equipo2": "CROACIA"
+            "equipo1": "R. OVIEDO",
+            "equipo2": "MÁLAGA"
         },
         {
             "numero": 13,
-            "equipo1": "PORTUGAL",
-            "equipo2": "DINAMARCA"
+            "equipo1": "ALBACETE",
+            "equipo2": "MIRANDÉS"
         },
         {
             "numero": 14,
-            "equipo1": "ALEMANIA",
-            "equipo2": "ITALIA"
+            "equipo1": "HUESCA",
+            "equipo2": "SPORTING"
         },
         {
             "numero": "P15",
-            "equipo1": "ESPAÑA",
-            "equipo2": "PAISES BAJOS"
+            "equipo1": "BETIS",
+            "equipo2": "SEVILLA"
         }
     ]
 }
