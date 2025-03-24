@@ -1,80 +1,80 @@
 {
-    "jornada": "Jornada 52ª (1ª LaLiga EA / 2ª LaLiga EA Hypermotion) 29-30 / marzo / 2025",
+    "jornada": "Jornada 53ª (1ª LaLiga EA / 2ª LaLiga EA Hypermotion) 5-6 / abril / 2025",
     "partidos": [
         {
             "numero": 1,
-            "equipo1": "REAL SOCIEDAD",
-            "equipo2": "VALLADOLID"
+            "equipo1": "GIRONA",
+            "equipo2": "ALAVÉS"
         },
         {
             "numero": 2,
-            "equipo1": "ESPANYOL",
-            "equipo2": "AT. MADRID"
+            "equipo1": "REAL MADRID",
+            "equipo2": "VALENCIA"
         },
         {
             "numero": 3,
-            "equipo1": "ALAVÉS",
-            "equipo2": "RAYO VALLECANO"
+            "equipo1": "MALLORCA",
+            "equipo2": "CELTA"
         },
         {
             "numero": 4,
-            "equipo1": "REAL MADRID",
-            "equipo2": "LEGANÉS"
+            "equipo1": "BARCELONA",
+            "equipo2": "BETIS"
         },
         {
             "numero": 5,
-            "equipo1": "GETAFE",
-            "equipo2": "VILLARREAL"
+            "equipo1": "LAS PALMAS",
+            "equipo2": "REAL SOCIEDAD"
         },
         {
             "numero": 6,
-            "equipo1": "BARCELONA",
-            "equipo2": "GIRONA"
+            "equipo1": "SEVILLA",
+            "equipo2": "AT. MADRID"
         },
         {
             "numero": 7,
-            "equipo1": "VALENCIA",
-            "equipo2": "MALLORCA"
+            "equipo1": "VALLADOLID",
+            "equipo2": "GETAFE"
         },
         {
             "numero": 8,
-            "equipo1": "CELTA",
-            "equipo2": "LAS PALMAS"
+            "equipo1": "VILLARREAL",
+            "equipo2": "ATHLETIC CLUB"
         },
         {
             "numero": 9,
-            "equipo1": "RACING SANTANDER",
-            "equipo2": "R. ZARAGOZA"
+            "equipo1": "EIBAR",
+            "equipo2": "R. OVIEDO"
         },
         {
             "numero": 10,
-            "equipo1": "ALMERÍA",
-            "equipo2": "LEVANTE"
+            "equipo1": "GRANADA",
+            "equipo2": "ALMERÍA"
         },
         {
             "numero": 11,
-            "equipo1": "CÓRDOBA",
-            "equipo2": "ELCHE"
-        },
-        {
-            "numero": 12,
-            "equipo1": "R. OVIEDO",
-            "equipo2": "MÁLAGA"
-        },
-        {
-            "numero": 13,
-            "equipo1": "ALBACETE",
+            "equipo1": "R. ZARAGOZA",
             "equipo2": "MIRANDÉS"
         },
         {
+            "numero": 12,
+            "equipo1": "LEVANTE",
+            "equipo2": "RACING SANTANDER"
+        },
+        {
+            "numero": 13,
+            "equipo1": "BURGOS",
+            "equipo2": "HUESCA"
+        },
+        {
             "numero": 14,
-            "equipo1": "HUESCA",
-            "equipo2": "SPORTING"
+            "equipo1": "MÁLAGA",
+            "equipo2": "CÓRDOBA"
         },
         {
             "numero": "P15",
-            "equipo1": "BETIS",
-            "equipo2": "SEVILLA"
+            "equipo1": "LEGANÉS",
+            "equipo2": "OSASUNA"
         }
     ]
 }
